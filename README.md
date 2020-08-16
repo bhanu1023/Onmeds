@@ -21,3 +21,8 @@ $ npm install
 $ node src/app.js
 ```
 
+### Pages
+
+If server is running at localhost:3001 then
+Homepage: localhost:3001
+
