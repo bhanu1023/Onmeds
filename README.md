@@ -13,6 +13,10 @@ Nodejs,
 Redis,
 MySQL
 
+### Requirement
+MySQL server with a user with username and hashed password stored <br/>
+Redis Server 
+
 ### Installation
 
 ```sh
@@ -23,6 +27,7 @@ $ node src/app.js
 
 ### Pages
 
-If server is running at localhost:3001 then \n
+If server is running at localhost:3001 then <br/>
 Homepage: localhost:3001
+
 
