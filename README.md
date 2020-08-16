@@ -8,10 +8,10 @@ Homepage
 Cart
 
 # Tech
-Reactjs
-Nodejs
-Redis
-MySQL
+Reactjs,
+Nodejs,
+Redis,
+MySQL,
 
 ### Installation
 
