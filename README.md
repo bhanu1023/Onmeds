@@ -11,7 +11,7 @@ Cart
 Reactjs,
 Nodejs,
 Redis,
-MySQL,
+MySQL
 
 ### Installation
 
@@ -23,6 +23,6 @@ $ node src/app.js
 
 ### Pages
 
-If server is running at localhost:3001 then
+If server is running at localhost:3001 then \n
 Homepage: localhost:3001
 
